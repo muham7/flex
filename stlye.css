@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+
+}
+nav{
+    background: rgb(5, 5, 10);
+
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 75px;
+}
+.ulll {
+    display: flex;
+    gap: 64px;
+
+}
+
+.ulll a{
+    color: aliceblue;
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.logo h1{
+    color: aliceblue;
+    margin-top: 20px;
+    margin-left: -300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.btn-logo {
+    width: 201px;
+    height: 56px;
+    color: aliceblue;
+    margin-left: 50px;
+    text-align: center;
+    border: 1px solid blue;
+    font-size: 22px;
+    padding: 10px;
+}
+main{
+    background: rgb(5, 5, 10);
+width: 100%;
+background-image: url('./Image\ \(4\).png');
+height: 700px;
+background-size:1200px ;
+}
+.red{
+    align-items: center;
+}
+.red h1{
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+margin-left: 120px;
+
+}
+
+.red p{
+    color: #FFFFFF;
+    margin-left: 120px;
+    margin-top: 50px;
+  
+}
+.red img{
+    margin-left: 812px;
+    margin-top: -300px;
+}
+
+.red button{
+    width: 301px;
+    height: 56px;
+    margin-left: 88px;
+    margin-top: 100px;
+  background-color: blue;
+  border: none;
+  color: #FFFFFF;
+  font-size: 22px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
